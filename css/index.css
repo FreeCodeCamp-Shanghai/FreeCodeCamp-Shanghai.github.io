@@ -7,8 +7,10 @@ html, body {
 
 
 .site-footer.content1{
-    position: absolute;
+    /*position: absolute;*/
     border-bottom: medium;
+    padding-bottom:30px;
+
 
 
 }
@@ -17,6 +19,7 @@ html, body {
     color: darkgreen;
     font-size: 12px;
     text-align: center;
+    padding-bottom:30px;
 }
 
 #cf-intro{
